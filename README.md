@@ -8,6 +8,7 @@ VeloFastRix an easy cleaner for you Windows with integrated S.M.A.R.T data analy
 *The program doesn't require UAC or admin rights meaning that you can use it right away by just installing, unlike one specific option to see the S.M.A.R.T data of your drives, NvME S.M.A.R.T data is currently not supported, but SATA drives are easily operable and readable, meaning that you can check the block and health issues of your drive data, or simply just get the described S.M.A.R.T data as a table*
 *VeloFastRix is under development project which is why now in test mode with the License Key, in order to get FULL Mode without time restriction you have to donate and let me know about that by contacting me, you will get a special release version with FULL Mode active in it, all suggestions are welcome*
 *VeloFastRix uses modern hashing key encryption to provide fast and easy License Key Registration in terms of UX and security*
+
 **Please read the LICENSE before installing and using VeloFastRix, keep in mind that some antiviruses false-detect VeloFastRix since it analyzes S.M.A.R.T data and works with Windows core (API calls), make sure to turn off the antivirus if it false-detects VeloFastRix before using it**
 
 # Support me 
