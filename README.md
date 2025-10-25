@@ -1,8 +1,8 @@
 # VeloFastRix
-VeloFastRix an easy cleaner for you Windows with integrated S.M.A.R.T data analyzer
 [ins]![Desktop+2025 10 25+-+23 50 44 07 (2)](https://github.com/user-attachments/assets/6b6e1d67-a447-4b59-b301-6a7efbffc393)
 
 # About VeloFastRix
+*VeloFastRix an easy cleaner for you Windows with integrated S.M.A.R.T data analyzer*
 *VeloFastRix is one of my pet-projects that had efficiency and speed in mind when it came to operate with system files and clearing the files, sorting them and efficiently manage the directories and memory, including the ability to manage the Windows performance by clearing the "dump" data of it*
 *VeloFastRix also offers an ability to work with explicit file extension in order to clear them*
 *The program doesn't require UAC or admin rights meaning that you can use it right away by just installing, unlike one specific option to see the S.M.A.R.T data of your drives, NvME S.M.A.R.T data is currently not supported, but SATA drives are easily operable and readable, meaning that you can check the block and health issues of your drive data, or simply just get the described S.M.A.R.T data as a table*
