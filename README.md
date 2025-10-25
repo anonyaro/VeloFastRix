@@ -1,5 +1,5 @@
 # VeloFastRix
-[ins]![Desktop+2025 10 25+-+23 50 44 07 (2)](https://github.com/user-attachments/assets/6b6e1d67-a447-4b59-b301-6a7efbffc393)
+![scase](https://github.com/user-attachments/assets/6b6e1d67-a447-4b59-b301-6a7efbffc393)
 
 # About VeloFastRix
 *VeloFastRix an easy cleaner for you Windows with integrated S.M.A.R.T data analyzer*
