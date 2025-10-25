@@ -11,8 +11,7 @@ VeloFastRix an easy cleaner for you Windows with integrated S.M.A.R.T data analy
 **Please read the LICENSE before installing and using VeloFastRix, keep in mind that some antiviruses false-detect VeloFastRix since it analyzes S.M.A.R.T data and works with Windows core (API calls), make sure to turn off the antivirus if it false-detects VeloFastRix before using it**
 
 # Support me 
-**[DONATE](https://www.donationalerts.com/r/xenyaro)**
-*You can also get FULL Mode version, just donate and let [me](https://t.me/t3plc6x) know about that*
+*You can also get FULL Mode version, if you **[DONATE](https://www.donationalerts.com/r/xenyaro)** and let **[ME](https://t.me/t3plc6x)** know about that*
 
 # Test Key 
 *9283404749HFAJKSDL1510370358FRHD299177067VNMBX21987120KFOIADSWEO4866918147HGAUYI1967425322NCIOVX3287537676FAEWNOUI1364173356IOUV*
