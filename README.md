@@ -11,7 +11,7 @@
 
 **Please read the LICENSE before installing and using VeloFastRix, keep in mind that some antiviruses false-detect VeloFastRix since it analyzes S.M.A.R.T data and works with Windows core (API calls), make sure to turn off the antivirus if it false-detects VeloFastRix before using it**
 
-# [** Support VeloFastRix **](https://www.donationalerts.com/r/xenyaro)
+# [**Support VeloFastRix**](https://www.donationalerts.com/r/xenyaro)
   <a href="https://www.donationalerts.com/r/xenyaro">
     <img 
       src="https://github.com/user-attachments/assets/c89418ad-5a77-4cca-961f-bd8613ad0466"
