@@ -1,5 +1,6 @@
 # VeloFastRix
 ![scase](https://github.com/user-attachments/assets/6b6e1d67-a447-4b59-b301-6a7efbffc393)
+https://github.com/user-attachments/assets/6b6e1d67-a447-4b59-b301-6a7efbffc393
 
 # About VeloFastRix
 *VeloFastRix an easy cleaner for you Windows with integrated S.M.A.R.T data analyzer*
