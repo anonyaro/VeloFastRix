@@ -11,11 +11,23 @@
 
 **Please read the LICENSE before installing and using VeloFastRix, keep in mind that some antiviruses false-detect VeloFastRix since it analyzes S.M.A.R.T data and works with Windows core (API calls), make sure to turn off the antivirus if it false-detects VeloFastRix before using it**
 
-# Support me 
-***[DONATION BUTTON FOR YOU](https://www.donationalerts.com/r/xenyaro)***
+# [** Support VeloFastRix **](https://www.donationalerts.com/r/xenyaro)
+  <a href="https://www.donationalerts.com/r/xenyaro">
+    <img 
+      src="https://github.com/user-attachments/assets/c89418ad-5a77-4cca-961f-bd8613ad0466"
+      width="300" height="200"
+      alt="logo"
+      style="display:block;"
+    />
+  </a>
 
 # Test Key 
 *9283404749HFAJKSDL1510370358FRHD299177067VNMBX21987120KFOIADSWEO4866918147HGAUYI1967425322NCIOVX3287537676FAEWNOUI1364173356IOUV*
+
+# **Used technologies and stack**  
+*1. WinAPI & C++ with a lot of syscalls and custom window redrawing*  
+*2. S.M.A.R.T data reading for SATA drivers*  
+*3. WMIC calls to get S.M.A.R.T data with system based UAC prompt*  
 
 # **Minimum Requirements**
 | Component | Requirement |
